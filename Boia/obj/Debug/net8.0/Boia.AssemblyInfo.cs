@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Boia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a439dfd228c7d882633710e66cd281d07933eb4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71cda85d2367f78d8182b885dc08afd2a3e48c18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Boia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Boia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
