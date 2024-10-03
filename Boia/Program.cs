@@ -16,5 +16,8 @@ public class Program
         Console.WriteLine("Informe o estado da boia 3 (0 ou 1): ");
         boia3 = int.Parse(Console.ReadLine());
 
-        
-        
+
+        if (boia1 == 0 || boia2 == 0 || boia3 == 0)
+        {
+            Console.WriteLine("Ligar válvula e deligar a bomba.");
+        }
