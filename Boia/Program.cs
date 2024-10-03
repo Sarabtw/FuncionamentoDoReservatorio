@@ -7,4 +7,7 @@ public class Program
         int boia1, boia2, boia3;
         bool valvulaLigada, bombaLigada;
 
+        Console.WriteLine("Informe o estado da boia 1 (0 ou 1): ");
+        boia1 = int.Parse(Console.ReadLine());
+
         
