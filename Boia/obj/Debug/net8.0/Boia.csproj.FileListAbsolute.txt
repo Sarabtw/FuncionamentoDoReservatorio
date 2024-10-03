@@ -3,3 +3,13 @@ C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\boia\obj\Deb
 C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\boia\obj\Debug\net8.0\Boia.AssemblyInfo.cs
 C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\boia\obj\Debug\net8.0\Boia.csproj.CoreCompileInputs.cache
 C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\boia\obj\Debug\net8.0\Boia.sourcelink.json
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\bin\Debug\net8.0\Boia.exe
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\bin\Debug\net8.0\Boia.deps.json
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\bin\Debug\net8.0\Boia.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\bin\Debug\net8.0\Boia.dll
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\bin\Debug\net8.0\Boia.pdb
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\obj\Debug\net8.0\Boia.dll
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\obj\Debug\net8.0\refint\Boia.dll
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\obj\Debug\net8.0\Boia.pdb
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\obj\Debug\net8.0\Boia.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\Boia\obj\Debug\net8.0\ref\Boia.dll
