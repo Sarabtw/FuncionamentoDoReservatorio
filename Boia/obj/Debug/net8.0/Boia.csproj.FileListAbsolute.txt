@@ -1,0 +1,5 @@
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\boia\obj\Debug\net8.0\Boia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\boia\obj\Debug\net8.0\Boia.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\boia\obj\Debug\net8.0\Boia.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\boia\obj\Debug\net8.0\Boia.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Sara\FuncionamentoDoReservatorio\boia\obj\Debug\net8.0\Boia.sourcelink.json
