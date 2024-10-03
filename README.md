@@ -1,19 +1,19 @@
 # FuncionamentoDoReservatorio
 ![alt text](image.png)
 
-O que foi utilizado:
+## O que foi utilizado:
 
-Linguagem de programação: C#
+- ***Linguagem de programação:*** C#
 
-Ambiente de desenvolvimento: Virtual Studio Code
+- ***Ambiente de desenvolvimento:*** Virtual Studio Code
 
-Etapas Implementadas
+## Etapas Implementadas
 
 1. Declaração de Variáveis:
 
-boia1, boia2, boia3: Inteiros que armazenam o estado das três boias.
+- ***boia1, boia2, boia3:*** Inteiros que armazenam o estado das três boias.
 
-valvulaLigada, bombaLigada: Variáveis booleanas que representam o estado da válvula e da bomba. Embora sejam declaradas, não são utilizadas no controle.
+- ***valvulaLigada, bombaLigada:*** Variáveis booleanas que representam o estado da válvula e da bomba. Embora sejam declaradas, não são utilizadas no controle.
 
 
 
@@ -30,7 +30,7 @@ Através de uma série de condicionais if-else, o sistema verifica os estados da
 
 
 
-Backlog
+## Backlog
 
 1. Correção da Lógica de Decisão:
 
@@ -57,6 +57,6 @@ Melhorar a organização do código eliminando redundâncias nas condições e u
 
 
 
-Conclusão
+## Conclusão
 
 O código tem o objetivo de simular o controle de nível de um sistema de boias, válvula e bomba, mas possui erros lógicos e redundâncias que devem ser corrigidos para funcionar corretamente. Além disso, a funcionalidade das variáveis booleanas não está implementada, e o tratamento de entradas precisa ser aprimorado.
