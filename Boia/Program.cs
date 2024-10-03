@@ -21,3 +21,13 @@ public class Program
         {
             Console.WriteLine("Ligar válvula e deligar a bomba.");
         }
+
+        if (boia1 == 0 || boia2 == 0 || boia3 1)
+        {
+            Console.WriteLine("Ligar válvula e desligar bomba.");
+        }
+
+        if (boia1 == 0 || boia2 == 1 || boia3 == 0)
+        {
+            Console.WriteLine("Falha na válvula e na bomba.");
+        }
