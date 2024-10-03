@@ -29,5 +29,15 @@ public class Program
 
         if (boia1 == 0 || boia2 == 1 || boia3 == 0)
         {
-            Console.WriteLine("Falha na válvula e na bomba.");
+            Console.WriteLine("Falha na válvula ou na bomba.");
+        }
+
+        if (boia1 == 0 || boia2 == 1 || boia3 == 1 )
+        {
+            Console.WriteLine("Falha na válvula ou na bomba.");
+        }
+
+        if(boia1 == 1 || boia2 == 0 || boia3 == 0)
+        {
+            Console.WriteLine("Ligar válvula e ligar bomba.");
         }
